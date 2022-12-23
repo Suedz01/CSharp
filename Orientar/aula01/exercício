@@ -1,0 +1,10 @@
+Criar uma classe Pessoa
+Nela deverá conter Peso e Altura
+Crie um double método IMC: peso/(altura*altura)
+Criar um método para retornar um string dependendo do IMC;
+< 18.5 - Abaixo do peso
+< 25 - Peso Normal
+< 30 - Acima do peso
+< 35 - Obesidade I
+< 40 - Obesidade II
+>= 40 - Obesidade III

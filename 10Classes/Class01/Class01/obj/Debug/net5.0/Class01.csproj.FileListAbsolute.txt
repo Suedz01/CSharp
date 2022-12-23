@@ -1,0 +1,16 @@
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\bin\Debug\net5.0\Class01.exe
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\bin\Debug\net5.0\Class01.deps.json
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\bin\Debug\net5.0\Class01.runtimeconfig.json
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\bin\Debug\net5.0\Class01.runtimeconfig.dev.json
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\bin\Debug\net5.0\Class01.dll
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\bin\Debug\net5.0\ref\Class01.dll
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\bin\Debug\net5.0\Class01.pdb
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\Class01.csprojAssemblyReference.cache
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\Class01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\Class01.AssemblyInfoInputs.cache
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\Class01.AssemblyInfo.cs
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\Class01.csproj.CoreCompileInputs.cache
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\Class01.dll
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\ref\Class01.dll
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\Class01.pdb
+C:\Users\sueda\OneDrive\Área de Trabalho\Programação\Class01\Class01\obj\Debug\net5.0\Class01.genruntimeconfig.cache

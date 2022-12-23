@@ -1,0 +1,5 @@
+C:\Users\sueda\OneDrive\Área de Trabalho\WinFormsApp1.exe
+C:\Users\sueda\OneDrive\Área de Trabalho\WinFormsApp1.dll
+C:\Users\sueda\OneDrive\Área de Trabalho\WinFormsApp1.deps.json
+C:\Users\sueda\OneDrive\Área de Trabalho\WinFormsApp1.runtimeconfig.json
+C:\Users\sueda\OneDrive\Área de Trabalho\WinFormsApp1.pdb
