@@ -1,0 +1,17 @@
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\bin\Debug\net6.0-windows\wfaPrimeiraAula.exe
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\bin\Debug\net6.0-windows\wfaPrimeiraAula.deps.json
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\bin\Debug\net6.0-windows\wfaPrimeiraAula.runtimeconfig.json
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\bin\Debug\net6.0-windows\wfaPrimeiraAula.dll
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\bin\Debug\net6.0-windows\wfaPrimeiraAula.pdb
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.csproj.AssemblyReference.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.Form1.resources
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.csproj.GenerateResource.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.AssemblyInfoInputs.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.AssemblyInfo.cs
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.dll
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\refint\wfaPrimeiraAula.dll
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.pdb
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\wfaPrimeiraAula.genruntimeconfig.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaPrimeiraAula\obj\Debug\net6.0-windows\ref\wfaPrimeiraAula.dll

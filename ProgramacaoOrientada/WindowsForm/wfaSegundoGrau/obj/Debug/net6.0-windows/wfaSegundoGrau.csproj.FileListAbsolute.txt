@@ -1,0 +1,17 @@
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\bin\Debug\net6.0-windows\wfaSegundoGrau.exe
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\bin\Debug\net6.0-windows\wfaSegundoGrau.deps.json
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\bin\Debug\net6.0-windows\wfaSegundoGrau.runtimeconfig.json
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\bin\Debug\net6.0-windows\wfaSegundoGrau.dll
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\bin\Debug\net6.0-windows\wfaSegundoGrau.pdb
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.csproj.AssemblyReference.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.Form1.resources
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.csproj.GenerateResource.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.AssemblyInfoInputs.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.AssemblyInfo.cs
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.dll
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\refint\wfaSegundoGrau.dll
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.pdb
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\wfaSegundoGrau.genruntimeconfig.cache
+C:\Users\Sued\Desktop\POO\WindowsForm\wfaSegundoGrau\obj\Debug\net6.0-windows\ref\wfaSegundoGrau.dll

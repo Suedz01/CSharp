@@ -1,0 +1,15 @@
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\bin\Debug\net7.0\aulaSemana3.exe
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\bin\Debug\net7.0\aulaSemana3.deps.json
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\bin\Debug\net7.0\aulaSemana3.runtimeconfig.json
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\bin\Debug\net7.0\aulaSemana3.dll
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\bin\Debug\net7.0\aulaSemana3.pdb
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\aulaSemana3.csproj.AssemblyReference.cache
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\aulaSemana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\aulaSemana3.AssemblyInfoInputs.cache
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\aulaSemana3.AssemblyInfo.cs
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\aulaSemana3.csproj.CoreCompileInputs.cache
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\aulaSemana3.dll
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\refint\aulaSemana3.dll
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\aulaSemana3.pdb
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\aulaSemana3.genruntimeconfig.cache
+C:\Users\Sued\Desktop\POO\Encapsulamento\aulaSemana3\obj\Debug\net7.0\ref\aulaSemana3.dll
