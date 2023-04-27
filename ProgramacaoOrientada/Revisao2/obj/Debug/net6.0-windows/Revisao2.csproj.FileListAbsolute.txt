@@ -1,0 +1,17 @@
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\bin\Debug\net6.0-windows\Revisao2.exe
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\bin\Debug\net6.0-windows\Revisao2.deps.json
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\bin\Debug\net6.0-windows\Revisao2.runtimeconfig.json
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\bin\Debug\net6.0-windows\Revisao2.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\bin\Debug\net6.0-windows\Revisao2.pdb
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.csproj.AssemblyReference.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.Form1.resources
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.csproj.GenerateResource.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.AssemblyInfoInputs.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.AssemblyInfo.cs
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.csproj.CoreCompileInputs.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\refint\Revisao2.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.pdb
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\Revisao2.genruntimeconfig.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\Revisao2\obj\Debug\net6.0-windows\ref\Revisao2.dll

@@ -1,0 +1,17 @@
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\bin\Debug\net6.0-windows\wfaConta_Especial.exe
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\bin\Debug\net6.0-windows\wfaConta_Especial.deps.json
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\bin\Debug\net6.0-windows\wfaConta_Especial.runtimeconfig.json
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\bin\Debug\net6.0-windows\wfaConta_Especial.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\bin\Debug\net6.0-windows\wfaConta_Especial.pdb
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.csproj.AssemblyReference.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.Form1.resources
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.csproj.GenerateResource.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.AssemblyInfoInputs.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.AssemblyInfo.cs
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.csproj.CoreCompileInputs.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\refint\wfaConta_Especial.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.pdb
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\wfaConta_Especial.genruntimeconfig.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\wfaConta_Especial\obj\Debug\net6.0-windows\ref\wfaConta_Especial.dll

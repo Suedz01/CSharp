@@ -1,0 +1,17 @@
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\bin\Debug\net6.0-windows\wfaMateriasAlunos.exe
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\bin\Debug\net6.0-windows\wfaMateriasAlunos.deps.json
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\bin\Debug\net6.0-windows\wfaMateriasAlunos.runtimeconfig.json
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\bin\Debug\net6.0-windows\wfaMateriasAlunos.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\bin\Debug\net6.0-windows\wfaMateriasAlunos.pdb
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.csproj.AssemblyReference.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.Form1.resources
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.csproj.GenerateResource.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.AssemblyInfoInputs.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.AssemblyInfo.cs
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\refint\wfaMateriasAlunos.dll
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.pdb
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\wfaMateriasAlunos.genruntimeconfig.cache
+C:\Users\Sued\Desktop\DocsPessoais\Programação\C#\ProgramacaoOrientada\WindowsForm\wfaMateriasAlunos\obj\Debug\net6.0-windows\ref\wfaMateriasAlunos.dll

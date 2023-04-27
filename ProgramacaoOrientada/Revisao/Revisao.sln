@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Revisao", "Revisao.csproj", "{38B9475B-7AE3-4A29-AB72-9CBB9AB85DDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{96FD455F-0011-42EA-9AFB-7D7FD3D776E5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\branco.png = ..\..\..\..\..\branco.png
+		..\..\..\..\..\circulo.png = ..\..\..\..\..\circulo.png
+		..\..\..\..\..\retangulo.png = ..\..\..\..\..\retangulo.png
+		..\..\..\..\..\trapezio.png = ..\..\..\..\..\trapezio.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B9475B-7AE3-4A29-AB72-9CBB9AB85DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B9475B-7AE3-4A29-AB72-9CBB9AB85DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B9475B-7AE3-4A29-AB72-9CBB9AB85DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B9475B-7AE3-4A29-AB72-9CBB9AB85DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A78D4B0F-1EB3-40F0-9314-3C8D1A073F7E}
+	EndGlobalSection
+EndGlobal
