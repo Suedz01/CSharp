@@ -1,0 +1,29 @@
+create database dbcolegio;
+
+create table tb_materias(
+	id_materia serial primary key,
+	str_nome_materia varchar(15),
+	str_descricao_materia varchar(100),
+	str_area varchar(25),
+	str_sala varchar(15)
+);
+
+create table tb_turmas(
+	id_turma serial primary key,
+	str_codigo varchar(15) not null,
+	str_descricao_turma varchar(120),
+	int_vagas int not null,
+	id_materia int not null,
+	CONSTRAINT fk_id_materia_turma FOREIGN KEY(id_materia) REFERENCES tb_materias(id_materia)
+);
+
+create table tb_alunos(
+	id_aluno serial primary key,
+	str_nome_aluno varchar(50),
+	str_matricula varchar(15),
+	id_turma int not null,
+	int_prova1 int,
+	int_prova2 int,
+	int_prova3 int,
+	CONSTRAINT fk_id_turma_alunos FOREIGN KEY(id_turma) REFERENCES tb_turmas(id_turma),
+);
