@@ -1,0 +1,7 @@
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\arrayReverse\arrayReverse\bin\Debug\arrayReverse.exe.config
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\arrayReverse\arrayReverse\bin\Debug\arrayReverse.exe
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\arrayReverse\arrayReverse\bin\Debug\arrayReverse.pdb
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\arrayReverse\arrayReverse\obj\Debug\arrayReverse.csproj.AssemblyReference.cache
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\arrayReverse\arrayReverse\obj\Debug\arrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\arrayReverse\arrayReverse\obj\Debug\arrayReverse.exe
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\arrayReverse\arrayReverse\obj\Debug\arrayReverse.pdb

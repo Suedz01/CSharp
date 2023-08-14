@@ -1,0 +1,6 @@
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\switchCase\switchCase\bin\Debug\switchCase.exe.config
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\switchCase\switchCase\bin\Debug\switchCase.exe
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\switchCase\switchCase\bin\Debug\switchCase.pdb
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\switchCase\switchCase\obj\Debug\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\switchCase\switchCase\obj\Debug\switchCase.exe
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\array\switchCase\switchCase\obj\Debug\switchCase.pdb

@@ -1,0 +1,7 @@
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\matrix\multMatriz\multMatriz\bin\Debug\multMatriz.exe.config
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\matrix\multMatriz\multMatriz\bin\Debug\multMatriz.exe
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\matrix\multMatriz\multMatriz\bin\Debug\multMatriz.pdb
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\matrix\multMatriz\multMatriz\obj\Debug\multMatriz.csproj.AssemblyReference.cache
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\matrix\multMatriz\multMatriz\obj\Debug\multMatriz.csproj.CoreCompileInputs.cache
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\matrix\multMatriz\multMatriz\obj\Debug\multMatriz.exe
+C:\Users\sueda\OneDrive\Área de Trabalho\C#\matrix\multMatriz\multMatriz\obj\Debug\multMatriz.pdb
